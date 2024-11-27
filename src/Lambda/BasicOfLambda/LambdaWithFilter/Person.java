@@ -1,4 +1,4 @@
-package LambdaWithFilter;
+package Lambda.BasicOfLambda.LambdaWithFilter;
 
 public class Person {
     private int id;
