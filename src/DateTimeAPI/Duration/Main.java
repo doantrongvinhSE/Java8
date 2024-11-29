@@ -22,11 +22,6 @@ public class Main {
         System.out.println("minutes: " + minutes);
         System.out.println("seconds: " + seconds);
 
-
         // tuong tu Period
-
-
-
-
     }
 }
